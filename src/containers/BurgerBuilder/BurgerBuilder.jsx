@@ -55,7 +55,8 @@ class BurgerBuilder extends Component {
     
     const updatedCount = oldCount +1;
 
-    const updatedIngredients = {
+    const updatedIngredients = 
+    {
       ...this.state.ingredients
     } 
 
